@@ -5,7 +5,7 @@ const Title = (props) => {
         <>
        <div className="jumbotron">
     <h1 className="display-3">{props.nombre}</h1>
-    <p className="lead">Jumbo helper text</p>
+    <p className="lead">Segundo cambio</p>
     <hr className="my-2"/>
     <p>More info</p>
     <p className="lead">
