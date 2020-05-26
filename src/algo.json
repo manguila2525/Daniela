@@ -1,0 +1,17 @@
+{
+   "estudiantes" : [
+       {
+"nombre":"Juan",
+"edad":12,
+"sexo":"masculino"
+
+},
+{
+    "nombre":"Maria",
+    "edad":22,
+    "sexo":"femenino"
+}
+
+]
+
+}
